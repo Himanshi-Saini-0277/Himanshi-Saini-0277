@@ -13,6 +13,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277" /> </p>
+
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" alt="Himanshi-Saini-0277" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshi-Saini-0277&show_icons=true&locale=en&layout=compact" alt="Himanshi-Saini-0277" /></p>
+
+
 <!---
 Himanshi-Saini-0277/Himanshi-Saini-0277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
