@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ...
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277" align="right" img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" alt="Himanshi-Saini-0277 />
-
+<p align="right"><img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" alt="Himanshi-Saini-0277 />
 
 <!---
 Himanshi-Saini-0277/Himanshi-Saini-0277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
