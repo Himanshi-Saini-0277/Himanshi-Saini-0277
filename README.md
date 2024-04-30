@@ -9,7 +9,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277" />
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277" img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" alt="Himanshi-Saini-0277 />
 
 <p align="right">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" alt="Himanshi-Saini-0277" /></p>
 
