@@ -6,8 +6,8 @@
 
 
 - 👋 Hi, I’m @Himanshi-Saini-0277
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Cloud Technologies
+- 🌱 I’m currently learning Python
 
 
 
