@@ -38,6 +38,7 @@
 <p>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40" style="margin-right: 5px;" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-980x1024-hczkuaha.png" alt="mysql" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" alt="Django" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="40" height="40" style="margin-right: 5px;"/></a>
@@ -55,8 +56,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshi-Saini-0277&show_icons=true&locale=en&layout=compact" alt="Himanshi-Saini-0277" /></p>
 
 
-
-[![@himanshi-saini-0277's Holopin board](https://holopin.me/@himanshi-saini-0277)](https://holopin.io/@himanshi-saini-0277)
 
 <!---
 Himanshi-Saini-0277/Himanshi-Saini-0277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
