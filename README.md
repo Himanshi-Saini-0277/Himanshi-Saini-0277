@@ -11,9 +11,9 @@
 
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277" />
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277" >
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" alt="Himanshi-Saini-0277" /></p>
+<p align="right">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" alt="Himanshi-Saini-0277" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshi-Saini-0277&show_icons=true&locale=en&layout=compact" alt="Himanshi-Saini-0277" /></p>
 
