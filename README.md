@@ -33,7 +33,7 @@
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.python.org/about/gettingstarted/" target="_blank"> <img src="https://www.dailyhostnews.com/wp-content/uploads/2018/07/Python-featured.jpg" alt="java" width="50" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="45" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-5c5543cbb2e0a4.8864677915490917877327.jpg" alt="javascript" width="30" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://banner2.cleanpng.com/20190202/ih/kisspng-javascript-logo-clip-art-download-copyright-my-profi-world-web-development-5c5543cbb2e0a4.8864677915490917877327.jpg" alt="javascript" width="35" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40" height="40"/> </a> 
 </p>
