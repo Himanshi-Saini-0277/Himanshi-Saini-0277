@@ -46,7 +46,7 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime text" width="40" height="40" style="margin-right: 2px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQa0p7RCejEFJ3r4HUVFcI3R4Wh89UwtszB7-RBvPXQ&s" alt="pandas" width="50" height="40" style="margin-right: 2px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzCcTVMk6Qo4Rwb9pV8s8fjZ5nFG6bBBMCDDJeOYN4A&s" alt="numpy" width="40" height="40" style="margin-right: 2px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="matplotlib" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://cieda.com.br/cieda/site/img/logo/matplotlib.02a.png" alt="matplotlib" width="40" height="40" style="margin-right: 2px;"/></a>
   
 </p>
 
