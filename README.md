@@ -56,7 +56,7 @@
 
 
 
-[![@himanshi-saini-0277's Holopin board](https://holopin.me/@shivamkr7250)](https://holopin.io/@himanshi-saini-0277)
+[![@himanshi-saini-0277's Holopin board](https://holopin.me/@himanshi-saini-0277)](https://holopin.io/@himanshi-saini-0277)
 
 <!---
 Himanshi-Saini-0277/Himanshi-Saini-0277 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
