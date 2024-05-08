@@ -23,7 +23,7 @@
 
 <h3 align="left">Programming Languages</h3>
 <p align="left" style="margin: 0;">
-  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img align="left" src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL" height="40" width="40" style="margin-right: 0px;"/> </a> 
+  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img align="left" src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" alt="SQL" height="40" width="45" style="margin-right: 0px;"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank"> <img align="left" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" height="40" width="40" style="margin-right: 0px;"/> </a> 
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170" target="_blank"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsj6HKCr1_XKrpUxmUXezq2ER_2cp3eG2xd5RtHmNdw&s" alt="C" height="40" width="40" style="margin-right: 0px;"/> </a> 
   <a href="https://www.python.org/about/gettingstarted/" target="_blank"> <img align="left" src="https://www.dailyhostnews.com/wp-content/uploads/2018/07/Python-featured.jpg" alt="python" height="40" width="50" style="margin-right: 0px;"/> </a> 
