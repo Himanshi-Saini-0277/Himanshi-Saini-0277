@@ -12,12 +12,6 @@
 - 🌱 I’m currently learning Deep learning
 
 
-
-<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277"  height="200" width="400"  align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" height="200" width="400" alt="Himanshi-Saini-0277" >
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshi-Saini-0277&show_icons=true&locale=en&layout=compact" alt="Himanshi-Saini-0277" /></p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/himanshi-saini-965281290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshi-saini-965281290" height="30" width="40" /></a>
@@ -38,6 +32,10 @@
   <a href="https://www.programiz.com/html" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" height="40" width="40" style="margin-right: 0px;"/> </a> 
 </p>
 
+
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277"  height="200" width="400"  align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" height="200" width="400" alt="Himanshi-Saini-0277" >
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshi-Saini-0277&show_icons=true&locale=en&layout=compact" alt="Himanshi-Saini-0277" /></p>
 
 
 <!---
