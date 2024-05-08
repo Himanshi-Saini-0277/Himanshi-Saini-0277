@@ -36,17 +36,17 @@
 <br>
 <h3>Framework & Tools</h3>
 <p>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40" style="margin-right: 0px;" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-980x1024-hczkuaha.png" alt="mysql" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="juptier" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime text" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQa0p7RCejEFJ3r4HUVFcI3R4Wh89UwtszB7-RBvPXQ&s" alt="pandas" width="50" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzCcTVMk6Qo4Rwb9pV8s8fjZ5nFG6bBBMCDDJeOYN4A&s" alt="numpy" width="40" height="40" style="margin-right: 0px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="matplotlib" width="40" height="40" style="margin-right: 0px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40" style="margin-right: 2px;" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-980x1024-hczkuaha.png" alt="mysql" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="juptier" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime text" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQa0p7RCejEFJ3r4HUVFcI3R4Wh89UwtszB7-RBvPXQ&s" alt="pandas" width="50" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzCcTVMk6Qo4Rwb9pV8s8fjZ5nFG6bBBMCDDJeOYN4A&s" alt="numpy" width="40" height="40" style="margin-right: 2px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="matplotlib" width="40" height="40" style="margin-right: 2px;"/></a>
   
 </p>
 
