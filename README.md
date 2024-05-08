@@ -31,6 +31,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40" style="margin-right: 0px;"/> </a> 
   <a href="https://www.programiz.com/html" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" height="40" width="40" style="margin-right: 0px;"/> </a> 
 </p>
+</p>
 <br>
 
 <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277"  height="200" width="400"  align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" height="200" width="400" alt="Himanshi-Saini-0277" >
