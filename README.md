@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @Himanshi-Saini-0277
 - 👀 I’m interested in Cloud Technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Deep learning
 
 
 
