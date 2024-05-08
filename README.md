@@ -32,7 +32,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40" style="margin-right: 0px;"/> </a> 
   <a href="https://www.programiz.com/html" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" height="40" width="40" style="margin-right: 0px;"/> </a> 
 </p>
-
+<br>
 <h3>Framework & Tools</h3>
 <p>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="60" height="60" /></a>
