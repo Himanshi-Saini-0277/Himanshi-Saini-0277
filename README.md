@@ -34,22 +34,45 @@
 </p>
 <br>
 <br>
-<h3>Framework & Tools</h3>
+<h3>Frameworks</h3>
 <p>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40" style="margin-right: 5px;" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-980x1024-hczkuaha.png" alt="mysql" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://builtwithdjango.com/static/vendors/images/logo.ee701a5f0ffc.png" alt="Django" width="40" height="45" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4D12AQEfnB5eUECypQ/article-cover_image-shrink_600_2000/0/1609606275382?e=2147483647&v=beta&t=f0EeqmS7qt8sedFhqCLzfuZBvjKQcrm_3ZozFNBqIg0" alt="FastAPI" width="40" height="45" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://blog.eduguru.in/wp-content/uploads/2020/02/arduino2-ide-logo.jpg" alt="Arduino IDE" width="40" height="45" style="margin-right: 5px;"/></a>
+ 
+  
+</p>
+
+<h3>Tools</h3>
+<p>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/database-mysql-icon-980x1024-hczkuaha.png" alt="mysql" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://s3.coinmarketcap.com/static-gravity/image/e32903f2d93948b79f63f2408ce97c62.png" alt="pip" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Whinarn/vscode-python-auto-venv/master/images/logo.png" alt="Virtualenv" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://e1.pngegg.com/pngimages/119/386/png-clipart-clay-os-6-a-macos-icon-intellij-idea-ij-logo-thumbnail.png" alt="IntelliJ IDEA" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="juptier" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime text" width="40" height="40" style="margin-right: 5px;"/></a>
+  
+</p>
+
+<h3>Libraries</h3>
+<p>
+  
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQa0p7RCejEFJ3r4HUVFcI3R4Wh89UwtszB7-RBvPXQ&s" alt="pandas" width="50" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzCcTVMk6Qo4Rwb9pV8s8fjZ5nFG6bBBMCDDJeOYN4A&s" alt="numpy" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cieda.com.br/cieda/site/img/logo/matplotlib.02a.png" alt="matplotlib" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_t8hclPgOBdZTv6pno406zFASvpBW9sjSW3Y7Z2Lfxw&s" alt="TensorFlow" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/wifi.png" alt="WiFi" width="40" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://d2794n4cyhr13z.cloudfront.net/packs/production/media/src/images/landing/adafruit-compact-256-c164befb381ecf49c07e8b058f6894e6.png" alt="Adafruit NeoPixel" width="40" height="40" style="margin-right: 5px;"/></a>
   
 </p>
+
+
 
 <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshi-Saini-0277&" alt="Himanshi-Saini-0277"  height="200" width="400"  align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Himanshi-Saini-0277&show_icons=true&locale=en" height="200" width="400" alt="Himanshi-Saini-0277" >
 
