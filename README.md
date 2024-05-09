@@ -38,8 +38,8 @@
 <p>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40" style="margin-right: 5px;" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://builtwithdjango.com/static/vendors/images/logo.ee701a5f0ffc.png" alt="Django" width="40" height="45" style="margin-right: 5px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4D12AQEfnB5eUECypQ/article-cover_image-shrink_600_2000/0/1609606275382?e=2147483647&v=beta&t=f0EeqmS7qt8sedFhqCLzfuZBvjKQcrm_3ZozFNBqIg0" alt="FastAPI" width="45" height="40" style="margin-right: 5px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://blog.eduguru.in/wp-content/uploads/2020/02/arduino2-ide-logo.jpg" alt="Arduino IDE" width="45" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4D12AQEfnB5eUECypQ/article-cover_image-shrink_600_2000/0/1609606275382?e=2147483647&v=beta&t=f0EeqmS7qt8sedFhqCLzfuZBvjKQcrm_3ZozFNBqIg0" alt="FastAPI" width="48" height="40" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://blog.eduguru.in/wp-content/uploads/2020/02/arduino2-ide-logo.jpg" alt="Arduino IDE" width="42" height="40" style="margin-right: 5px;"/></a>
  
   
 </p>
@@ -66,7 +66,7 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzCcTVMk6Qo4Rwb9pV8s8fjZ5nFG6bBBMCDDJeOYN4A&s" alt="numpy" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cieda.com.br/cieda/site/img/logo/matplotlib.02a.png" alt="matplotlib" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_t8hclPgOBdZTv6pno406zFASvpBW9sjSW3Y7Z2Lfxw&s" alt="TensorFlow" width="40" height="40" style="margin-right: 5px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="40" height="45" style="margin-right: 5px;"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="40" height="60" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/wifi.png" alt="WiFi" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://d2794n4cyhr13z.cloudfront.net/packs/production/media/src/images/landing/adafruit-compact-256-c164befb381ecf49c07e8b058f6894e6.png" alt="Adafruit NeoPixel" width="45" height="40" style="margin-right: 5px;"/></a>
   
