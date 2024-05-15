@@ -64,7 +64,6 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQa0p7RCejEFJ3r4HUVFcI3R4Wh89UwtszB7-RBvPXQ&s" alt="pandas" width="50" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzCcTVMk6Qo4Rwb9pV8s8fjZ5nFG6bBBMCDDJeOYN4A&s" alt="numpy" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cieda.com.br/cieda/site/img/logo/matplotlib.02a.png" alt="matplotlib" width="40" height="40" style="margin-right: 5px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_t8hclPgOBdZTv6pno406zFASvpBW9sjSW3Y7Z2Lfxw&s" alt="TensorFlow" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="SQLite" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/wifi.png" alt="WiFi" width="40" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://d2794n4cyhr13z.cloudfront.net/packs/production/media/src/images/landing/adafruit-compact-256-c164befb381ecf49c07e8b058f6894e6.png" alt="Adafruit NeoPixel" width="45" height="40" style="margin-right: 5px;"/></a>
