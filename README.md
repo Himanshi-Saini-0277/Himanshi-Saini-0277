@@ -38,7 +38,6 @@
 <p>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40" style="margin-right: 5px;" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://builtwithdjango.com/static/vendors/images/logo.ee701a5f0ffc.png" alt="Django" width="40" height="45" style="margin-right: 5px;"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4D12AQEfnB5eUECypQ/article-cover_image-shrink_600_2000/0/1609606275382?e=2147483647&v=beta&t=f0EeqmS7qt8sedFhqCLzfuZBvjKQcrm_3ZozFNBqIg0" alt="FastAPI" width="48" height="40" style="margin-right: 5px;"/></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://blog.eduguru.in/wp-content/uploads/2020/02/arduino2-ide-logo.jpg" alt="Arduino IDE" width="42" height="40" style="margin-right: 5px;"/></a>
  
   
