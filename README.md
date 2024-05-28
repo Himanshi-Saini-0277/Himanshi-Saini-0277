@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshi!</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Himanshi-Saini-0277&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshi-Saini-0277" /> </p>
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Himanshi-Saini-0277&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=onedark" alt="Himanshi-Saini-0277" />
-</p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=Himanshi-Saini-0277&no-bg=true" alt="Himanshi-Saini-0277" /></a> </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
