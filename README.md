@@ -28,9 +28,7 @@
   <a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170" target="_blank"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsj6HKCr1_XKrpUxmUXezq2ER_2cp3eG2xd5RtHmNdw&s" alt="C" height="40" width="40" style="margin-right: 0px;"/> </a> 
   <a href="https://www.python.org/about/gettingstarted/" target="_blank"> <img align="left" src="https://www.dailyhostnews.com/wp-content/uploads/2018/07/Python-featured.jpg" alt="python" height="40" width="50" style="margin-right: 0px;"/> </a> 
   <a href="https://www.javatpoint.com/introduction-to-java" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" height="40" width="45" style="margin-right: 0px;"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" alt="javascript" height="40" width="75" style="margin-right: 0px;"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40" style="margin-right: 0px;"/> </a> 
-  <a href="https://www.programiz.com/html" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" height="40" width="40" style="margin-right: 0px;"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png" alt="javascript" height="40" width="75" style="margin-right: 0px;"/> </a>  
 </p>
 <br>
 <br>
